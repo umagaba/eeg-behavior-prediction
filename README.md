@@ -7,6 +7,8 @@ We picked up the EEG Challenge (2025) for our Deep Learning project. This had 2 
 Cross-Task Transfer Learning: Developing models that can effectively transfer knowledge from any cognitive EEG tasks to active task
 Subject Invariant Representation: Creating robust representations that generalize across different subjects while predicting clinical factors.
 
+*I worked on the Second Task Exclusively*
+
 <img width="1138" height="838" alt="unnamed" src="https://github.com/user-attachments/assets/e1cbbe03-a85b-4bda-a7ba-a2e2ee388a26" />
 
 To go about this, we divided ourselves into pairs. Anandita and Suhaani did Task 1, Chinmayi and Uma did Task 2.
